@@ -1,4 +1,4 @@
-# 🐘 PHP Projects & Learning Journey
+# 🐘 PHP Projects & Learning Journey.
 
 This repository contains all the **PHP projects, practice programs, and web development experiments** that I built while learning PHP, MySQL, and backend development.
 
